@@ -1,0 +1,21 @@
+.top {
+    background:  blue;
+    margin-top:10px;
+    border: 2px solid black;
+}
+.nav {
+    background: green;
+    margin-top:10px;
+    border: 2px solid black;
+}
+.heading {
+    background: orange;
+    margin-top:10px;
+    border: 2px solid black;
+}
+.box{
+    background: brown;
+    margin: 20px 20px 0px 0px;
+    border: 2px solid black;
+    height:200px;
+}
